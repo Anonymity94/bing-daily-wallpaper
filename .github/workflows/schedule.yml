@@ -2,14 +2,12 @@ name: schedule
 
 on:
   schedule:
-    - cron: "40 12 * * *"
+    # 0时区5点，北京时间+8
+    - cron: "0 5 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    env:
-      TZ: Asia/Shanghai
 
     steps:
       - name: Clone repository
