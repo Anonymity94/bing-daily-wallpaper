@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Mar 19 2021 00:40:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)](https://cn.bing.com/th?id=OHR.MtEtna_EN-US8761813954_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Mar 20 2021 00:40:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the City of Adelaide shipwreck with trees growing on it, Magnetic Island, Queensland, Australia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MagneticIsland_EN-US9412695841_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-03-19
+  2021-03-20
 
-  [Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)](https://cn.bing.com/th?id=OHR.MtEtna_EN-US8761813954_UHD.jpg)
+  [Aerial view of the City of Adelaide shipwreck with trees growing on it, Magnetic Island, Queensland, Australia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MagneticIsland_EN-US9412695841_UHD.jpg)
 <!-- END -->
 
 
