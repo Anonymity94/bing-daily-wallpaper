@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 25 2021 01:15:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMom_EN-US9862782184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 26 2021 02:23:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)](https://cn.bing.com/th?id=OHR.GoldMine_EN-US9932494168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-03-25
+  2021-03-26
 
-  [Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMom_EN-US9862782184_UHD.jpg)
+  [Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)](https://cn.bing.com/th?id=OHR.GoldMine_EN-US9932494168_UHD.jpg)
 <!-- END -->
 
 
