@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Mar 31 2021 00:51:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Detail of an ostrich fern in spring, Washington state (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwordFern_EN-US7523587413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 01 2021 00:57:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-03-31
+  2021-04-01
 
-  [Detail of an ostrich fern in spring, Washington state (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwordFern_EN-US7523587413_UHD.jpg)
+  [Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg)
 <!-- END -->
 
 
