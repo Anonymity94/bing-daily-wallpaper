@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 02 2021 01:02:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShyGuy_EN-US7880739914_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 03 2021 00:55:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilSandDunes_EN-US8030598740_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-04-02
+  2021-04-03
 
-  [Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShyGuy_EN-US7880739914_UHD.jpg)
+  [Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilSandDunes_EN-US8030598740_UHD.jpg)
 <!-- END -->
 
 
