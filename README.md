@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 09 2021 00:54:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)](https://cn.bing.com/th?id=OHR.TetraoTetrix_EN-US8933698445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 10 2021 00:57:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepDarkSky_EN-US6328400931_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-04-09
+  2021-04-10
 
-  [Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)](https://cn.bing.com/th?id=OHR.TetraoTetrix_EN-US8933698445_UHD.jpg)
+  [Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepDarkSky_EN-US6328400931_UHD.jpg)
 <!-- END -->
 
 
