@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Apr 10 2021 00:57:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepDarkSky_EN-US6328400931_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Apr 11 2021 00:59:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Grizzly bear cub siblings playing in Denali National Park and Preserve, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com/th?id=OHR.SiblingBears_EN-US6609087772_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-04-10
+  2021-04-11
 
-  [Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepDarkSky_EN-US6328400931_UHD.jpg)
+  [Grizzly bear cub siblings playing in Denali National Park and Preserve, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com/th?id=OHR.SiblingBears_EN-US6609087772_UHD.jpg)
 <!-- END -->
 
 
