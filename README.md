@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 25 2021 01:01:15 GMT+0000 (Coordinated Universal Time) -->
-  ![The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChollaGarden_EN-US0706816050_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 26 2021 00:59:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Adélie penguins diving off an iceberg in Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieDiving_EN-US0845944074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-04-25
+  2021-04-26
 
-  [The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChollaGarden_EN-US0706816050_UHD.jpg)
+  [Adélie penguins diving off an iceberg in Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieDiving_EN-US0845944074_UHD.jpg)
 <!-- END -->
 
 
