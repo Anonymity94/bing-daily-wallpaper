@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 30 2021 00:52:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of tidal channels in marshland of the Mockhorn Island State Wildlife Management Area, Virginia (© Shane Gross/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mockhorn_EN-US1360987065_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 01 2021 00:54:40 GMT+0000 (Coordinated Universal Time) -->
+  !['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com/th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-04-30
+  2021-05-01
 
-  [Aerial view of tidal channels in marshland of the Mockhorn Island State Wildlife Management Area, Virginia (© Shane Gross/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mockhorn_EN-US1360987065_UHD.jpg)
+  ['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com/th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg)
 <!-- END -->
 
 
