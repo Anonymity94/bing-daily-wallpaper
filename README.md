@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 01 2021 00:54:40 GMT+0000 (Coordinated Universal Time) -->
-  !['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com/th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 02 2021 00:58:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Cherry blossoms at the Japanese Tea Garden in Golden Gate Park, San Francisco, California (© luisascanio/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GGTeaGarden_EN-US1647173456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-01
+  2021-05-02
 
-  ['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com/th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg)
+  [Cherry blossoms at the Japanese Tea Garden in Golden Gate Park, San Francisco, California (© luisascanio/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GGTeaGarden_EN-US1647173456_UHD.jpg)
 <!-- END -->
 
 
