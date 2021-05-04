@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon May 03 2021 00:53:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Burchell's zebra stallions, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.LaughingZebras_EN-US1800178960_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue May 04 2021 00:49:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Poster for Teacher Appreciation Week by 12-year-old Caroline Holt, 7th-grade student at the Bush School, Seattle, Washington (© Caroline Holt/Eugenia Chang)](https://cn.bing.com/th?id=OHR.TeacherHeart_EN-US1874465116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-03
+  2021-05-04
 
-  [Burchell's zebra stallions, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.LaughingZebras_EN-US1800178960_UHD.jpg)
+  [Poster for Teacher Appreciation Week by 12-year-old Caroline Holt, 7th-grade student at the Bush School, Seattle, Washington (© Caroline Holt/Eugenia Chang)](https://cn.bing.com/th?id=OHR.TeacherHeart_EN-US1874465116_UHD.jpg)
 <!-- END -->
 
 
