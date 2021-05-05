@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 04 2021 00:49:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Poster for Teacher Appreciation Week by 12-year-old Caroline Holt, 7th-grade student at the Bush School, Seattle, Washington (© Caroline Holt/Eugenia Chang)](https://cn.bing.com/th?id=OHR.TeacherHeart_EN-US1874465116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed May 05 2021 00:46:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Grey seal hitching itself over the beach at Donna Nook, North Lincolnshire, England (© Frederic Desmette/Minden Pictures)](https://cn.bing.com/th?id=OHR.StarWarsSeal_EN-US1938844381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-04
+  2021-05-05
 
-  [Poster for Teacher Appreciation Week by 12-year-old Caroline Holt, 7th-grade student at the Bush School, Seattle, Washington (© Caroline Holt/Eugenia Chang)](https://cn.bing.com/th?id=OHR.TeacherHeart_EN-US1874465116_UHD.jpg)
+  [Grey seal hitching itself over the beach at Donna Nook, North Lincolnshire, England (© Frederic Desmette/Minden Pictures)](https://cn.bing.com/th?id=OHR.StarWarsSeal_EN-US1938844381_UHD.jpg)
 <!-- END -->
 
 
