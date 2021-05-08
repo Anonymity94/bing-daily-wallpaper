@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 07 2021 00:47:08 GMT+0000 (Coordinated Universal Time) -->
-  !['Now & Forever,' a mural by Tristan Eaton honoring health care workers, May 11, 2020, in New York City (© Timothy A. Clary/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.NurseMask_EN-US2085492290_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 08 2021 00:46:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MaineWetland_EN-US3940841989_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-07
+  2021-05-08
 
-  ['Now & Forever,' a mural by Tristan Eaton honoring health care workers, May 11, 2020, in New York City (© Timothy A. Clary/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.NurseMask_EN-US2085492290_UHD.jpg)
+  [Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MaineWetland_EN-US3940841989_UHD.jpg)
 <!-- END -->
 
 
