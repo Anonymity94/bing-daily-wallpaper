@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu May 20 2021 00:53:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Fallen rhododendron petals line a trail through Pisgah National Forest, North Carolina (© aheflin/Getty Images Plus)](https://cn.bing.com/th?id=OHR.RoanRhododendron_EN-US8777664012_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri May 21 2021 00:56:56 GMT+0000 (Coordinated Universal Time) -->
+  ![A bee dives into a lotus flower at Kenilworth Park and Aquatic Gardens in Washington, DC (© Linda Davidson/The Washington Post via Getty Images)](https://cn.bing.com/th?id=OHR.BeeLotus_EN-US7861856689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-20
+  2021-05-21
 
-  [Fallen rhododendron petals line a trail through Pisgah National Forest, North Carolina (© aheflin/Getty Images Plus)](https://cn.bing.com/th?id=OHR.RoanRhododendron_EN-US8777664012_UHD.jpg)
+  [A bee dives into a lotus flower at Kenilworth Park and Aquatic Gardens in Washington, DC (© Linda Davidson/The Washington Post via Getty Images)](https://cn.bing.com/th?id=OHR.BeeLotus_EN-US7861856689_UHD.jpg)
 <!-- END -->
 
 
