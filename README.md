@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 23 2021 01:03:00 GMT+0000 (Coordinated Universal Time) -->
-  ![The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)](https://cn.bing.com/th?id=OHR.CapeofTossa_EN-US6969132211_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 24 2021 01:00:40 GMT+0000 (Coordinated Universal Time) -->
+  ![The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)](https://cn.bing.com/th?id=OHR.RoseRoom_EN-US7194472524_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-23
+  2021-05-24
 
-  [The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)](https://cn.bing.com/th?id=OHR.CapeofTossa_EN-US6969132211_UHD.jpg)
+  [The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)](https://cn.bing.com/th?id=OHR.RoseRoom_EN-US7194472524_UHD.jpg)
 <!-- END -->
 
 
