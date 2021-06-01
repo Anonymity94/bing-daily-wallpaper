@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon May 31 2021 02:05:38 GMT+0000 (Coordinated Universal Time) -->
-  ![California sea lion in a forest of giant kelp near the Channel Islands of California (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SeaDog_EN-US8346901369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 01 2021 02:27:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)](https://cn.bing.com/th?id=OHR.WomensMemorial_EN-US8561851319_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-05-31
+  2021-06-01
 
-  [California sea lion in a forest of giant kelp near the Channel Islands of California (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SeaDog_EN-US8346901369_UHD.jpg)
+  [Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)](https://cn.bing.com/th?id=OHR.WomensMemorial_EN-US8561851319_UHD.jpg)
 <!-- END -->
 
 
