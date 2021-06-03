@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jun 02 2021 02:33:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of the Grotta della Poesia (Poetry's Cave) near Roca, Lecce, Italy (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.PoetrysCave_EN-US8786875244_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jun 03 2021 02:08:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.EstoshaSpringbok_EN-US8878416660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-06-02
+  2021-06-03
 
-  [Aerial view of the Grotta della Poesia (Poetry's Cave) near Roca, Lecce, Italy (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.PoetrysCave_EN-US8786875244_UHD.jpg)
+  [Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.EstoshaSpringbok_EN-US8878416660_UHD.jpg)
 <!-- END -->
 
 
