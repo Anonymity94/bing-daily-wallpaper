@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jun 16 2021 00:48:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of volcanic Lake Pinatubo and mountains, Luzon, Philippines (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.LakePinatubo_EN-US8170111215_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jun 17 2021 00:46:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Green sea turtle diving, Great Barrier Reef, Queensland, Australia (© imageBROKER/Alamy)](https://cn.bing.com/th?id=OHR.GBRTurtle_EN-US9472992921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-06-16
+  2021-06-17
 
-  [Aerial view of volcanic Lake Pinatubo and mountains, Luzon, Philippines (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.LakePinatubo_EN-US8170111215_UHD.jpg)
+  [Green sea turtle diving, Great Barrier Reef, Queensland, Australia (© imageBROKER/Alamy)](https://cn.bing.com/th?id=OHR.GBRTurtle_EN-US9472992921_UHD.jpg)
 <!-- END -->
 
 
