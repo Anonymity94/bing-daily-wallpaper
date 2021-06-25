@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jun 24 2021 00:37:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Nichinan_EN-US5055695100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jun 25 2021 00:52:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-06-24
+  2021-06-25
 
-  [Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Nichinan_EN-US5055695100_UHD.jpg)
+  [Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg)
 <!-- END -->
 
 
