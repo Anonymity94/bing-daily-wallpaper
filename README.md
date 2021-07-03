@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 02 2021 00:47:55 GMT+0000 (Coordinated Universal Time) -->
-  !['Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)](https://cn.bing.com/th?id=OHR.HangingCanoes_EN-US0235160370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 03 2021 00:47:40 GMT+0000 (Coordinated Universal Time) -->
+  ![A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-02
+  2021-07-03
 
-  ['Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)](https://cn.bing.com/th?id=OHR.HangingCanoes_EN-US0235160370_UHD.jpg)
+  [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg)
 <!-- END -->
 
 
