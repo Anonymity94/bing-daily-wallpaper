@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 03 2021 00:47:40 GMT+0000 (Coordinated Universal Time) -->
-  ![A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 04 2021 00:49:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com/th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-03
+  2021-07-04
 
-  [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg)
+  [Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com/th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg)
 <!-- END -->
 
 
