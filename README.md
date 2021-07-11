@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 10 2021 00:47:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)](https://cn.bing.com/th?id=OHR.Ortygia_EN-US5940165843_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 11 2021 00:54:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)](https://cn.bing.com/th?id=OHR.MonfragueNationalPark_EN-US6445504463_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-10
+  2021-07-11
 
-  [Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)](https://cn.bing.com/th?id=OHR.Ortygia_EN-US5940165843_UHD.jpg)
+  [Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)](https://cn.bing.com/th?id=OHR.MonfragueNationalPark_EN-US6445504463_UHD.jpg)
 <!-- END -->
 
 
