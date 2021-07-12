@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 11 2021 00:54:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)](https://cn.bing.com/th?id=OHR.MonfragueNationalPark_EN-US6445504463_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 12 2021 00:48:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Spiral aloe (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralAloe_EN-US6880291357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-11
+  2021-07-12
 
-  [Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)](https://cn.bing.com/th?id=OHR.MonfragueNationalPark_EN-US6445504463_UHD.jpg)
+  [Spiral aloe (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralAloe_EN-US6880291357_UHD.jpg)
 <!-- END -->
 
 
