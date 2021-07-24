@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 23 2021 00:50:07 GMT+0000 (Coordinated Universal Time) -->
-  ![The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 24 2021 00:49:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-23
+  2021-07-24
 
-  [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg)
+  [Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg)
 <!-- END -->
 
 
