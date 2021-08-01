@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 31 2021 00:49:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Aug 01 2021 00:56:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)](https://cn.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-07-31
+  2021-08-01
 
-  [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)
+  [Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)](https://cn.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg)
 <!-- END -->
 
 
