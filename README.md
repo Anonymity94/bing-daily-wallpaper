@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 02 2021 00:49:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Barley field in East Lothian, Scotland (© Scott Masterton/plainpicture)](https://cn.bing.com/th?id=OHR.LammasDay_EN-US7320561829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 03 2021 00:54:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Mesas, Upper Cathedral Valley, Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.UpperCathedral_EN-US7580471789_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-08-02
+  2021-08-03
 
-  [Barley field in East Lothian, Scotland (© Scott Masterton/plainpicture)](https://cn.bing.com/th?id=OHR.LammasDay_EN-US7320561829_UHD.jpg)
+  [Mesas, Upper Cathedral Valley, Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.UpperCathedral_EN-US7580471789_UHD.jpg)
 <!-- END -->
 
 
