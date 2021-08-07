@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 06 2021 00:53:46 GMT+0000 (Coordinated Universal Time) -->
-  ![The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)](https://cn.bing.com/th?id=OHR.SkyPool_EN-US8327769804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 07 2021 00:44:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-08-06
+  2021-08-07
 
-  [The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)](https://cn.bing.com/th?id=OHR.SkyPool_EN-US8327769804_UHD.jpg)
+  [Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg)
 <!-- END -->
 
 
