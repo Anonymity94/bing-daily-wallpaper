@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Aug 07 2021 00:44:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Aug 08 2021 00:49:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltCones_EN-US8727302779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-08-07
+  2021-08-08
 
-  [Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg)
+  [Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltCones_EN-US8727302779_UHD.jpg)
 <!-- END -->
 
 
