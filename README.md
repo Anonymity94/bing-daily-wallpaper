@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 08 2021 00:49:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whales off the coast of Massachusetts (© Eric Kulin/plainpicture)](https://cn.bing.com/th?id=OHR.MassachusettsHumpbacks_EN-US3647778341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 09 2021 00:52:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Livraria Lello, a bookstore in Porto, Portugal (© Nido Huebl/Shutterstock)](https://cn.bing.com/th?id=OHR.LivrariaLello_EN-US3788215470_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-09-08
+  2021-09-09
 
-  [Humpback whales off the coast of Massachusetts (© Eric Kulin/plainpicture)](https://cn.bing.com/th?id=OHR.MassachusettsHumpbacks_EN-US3647778341_UHD.jpg)
+  [Livraria Lello, a bookstore in Porto, Portugal (© Nido Huebl/Shutterstock)](https://cn.bing.com/th?id=OHR.LivrariaLello_EN-US3788215470_UHD.jpg)
 <!-- END -->
 
 
