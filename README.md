@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 11 2021 00:49:13 GMT+0000 (Coordinated Universal Time) -->
-  ![River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.JaneAusten_EN-US8712835547_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 12 2021 00:52:37 GMT+0000 (Coordinated Universal Time) -->
+  ![US flag on part of a 9/11 memorial overlooking the New York skyline from Exchange Place, Jersey City, New Jersey (© Gary Hershorn/Getty Images)](https://cn.bing.com/th?id=OHR.TwistedSteel_EN-US8897329336_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-09-11
+  2021-09-12
 
-  [River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.JaneAusten_EN-US8712835547_UHD.jpg)
+  [US flag on part of a 9/11 memorial overlooking the New York skyline from Exchange Place, Jersey City, New Jersey (© Gary Hershorn/Getty Images)](https://cn.bing.com/th?id=OHR.TwistedSteel_EN-US8897329336_UHD.jpg)
 <!-- END -->
 
 
