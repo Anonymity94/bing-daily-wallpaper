@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 13 2021 00:52:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Asian elephants in West Bengal, India (© Avijan Saha/Minden Pictures)](https://cn.bing.com/th?id=OHR.AsianElephants_EN-US9103176506_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Sep 14 2021 00:55:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the Venice Skatepark in Venice Beach, Los Angeles (© Ingus Kruklitis/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceBeach_EN-US0067125391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-09-13
+  2021-09-14
 
-  [Asian elephants in West Bengal, India (© Avijan Saha/Minden Pictures)](https://cn.bing.com/th?id=OHR.AsianElephants_EN-US9103176506_UHD.jpg)
+  [Aerial view of the Venice Skatepark in Venice Beach, Los Angeles (© Ingus Kruklitis/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceBeach_EN-US0067125391_UHD.jpg)
 <!-- END -->
 
 
