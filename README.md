@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Sep 30 2021 00:56:21 GMT+0000 (Coordinated Universal Time) -->
-  ![A wood bison near Behchoko, in the Northwest Territories, Canada (© Don Johnston/agefotostock)](https://cn.bing.com/th?id=OHR.WoodBison_EN-US1315596860_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 01 2021 00:55:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Container ship in San Pedro, California (© Cameron Venti/Getty Images)](https://cn.bing.com/th?id=OHR.ContainerShip_EN-US1397689577_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-09-30
+  2021-10-01
 
-  [A wood bison near Behchoko, in the Northwest Territories, Canada (© Don Johnston/agefotostock)](https://cn.bing.com/th?id=OHR.WoodBison_EN-US1315596860_UHD.jpg)
+  [Container ship in San Pedro, California (© Cameron Venti/Getty Images)](https://cn.bing.com/th?id=OHR.ContainerShip_EN-US1397689577_UHD.jpg)
 <!-- END -->
 
 
