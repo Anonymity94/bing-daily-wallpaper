@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 02 2021 00:51:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Hyacinth macaws in the Pantanal region of Brazil (© David Pattyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HyacinthMacaws_EN-US1453969015_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 03 2021 00:57:13 GMT+0000 (Coordinated Universal Time) -->
+  ![The Ivishak River in the North Slope of Alaska (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.IvishakRiver_EN-US1566710821_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-02
+  2021-10-03
 
-  [Hyacinth macaws in the Pantanal region of Brazil (© David Pattyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HyacinthMacaws_EN-US1453969015_UHD.jpg)
+  [The Ivishak River in the North Slope of Alaska (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.IvishakRiver_EN-US1566710821_UHD.jpg)
 <!-- END -->
 
 
