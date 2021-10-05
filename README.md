@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Oct 04 2021 00:57:16 GMT+0000 (Coordinated Universal Time) -->
-  ![The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Oct 05 2021 00:52:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Andromeda galaxy (© NASA/JPL-Caltech)](https://cn.bing.com/th?id=OHR.Andromeda_EN-US1720805317_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-04
+  2021-10-05
 
-  [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg)
+  [Andromeda galaxy (© NASA/JPL-Caltech)](https://cn.bing.com/th?id=OHR.Andromeda_EN-US1720805317_UHD.jpg)
 <!-- END -->
 
 
