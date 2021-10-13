@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Oct 12 2021 00:56:53 GMT+0000 (Coordinated Universal Time) -->
-  ![The Clan House at Totem Bight State Historical Park near Ketchikan, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com/th?id=OHR.ClanHouse_EN-US7625745016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Oct 13 2021 00:52:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Saint-Malo in Brittany, France (© Mathieu Rivrin/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.StMalo_EN-US7686440014_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-12
+  2021-10-13
 
-  [The Clan House at Totem Bight State Historical Park near Ketchikan, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com/th?id=OHR.ClanHouse_EN-US7625745016_UHD.jpg)
+  [Saint-Malo in Brittany, France (© Mathieu Rivrin/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.StMalo_EN-US7686440014_UHD.jpg)
 <!-- END -->
 
 
