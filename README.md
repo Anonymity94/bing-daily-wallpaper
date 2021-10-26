@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Oct 25 2021 00:54:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Bavljenac Island, Croatia (© Julien Duval/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Bavljenac_EN-US8692148480_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Oct 26 2021 00:51:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](https://cn.bing.com/th?id=OHR.BulgariaDevilBridge_EN-US4705163344_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-25
+  2021-10-26
 
-  [Bavljenac Island, Croatia (© Julien Duval/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Bavljenac_EN-US8692148480_UHD.jpg)
+  [Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](https://cn.bing.com/th?id=OHR.BulgariaDevilBridge_EN-US4705163344_UHD.jpg)
 <!-- END -->
 
 
