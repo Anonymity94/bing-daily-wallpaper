@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Oct 26 2021 00:51:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](https://cn.bing.com/th?id=OHR.BulgariaDevilBridge_EN-US4705163344_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Oct 27 2021 00:50:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxBlackForest_EN-US4823848176_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-26
+  2021-10-27
 
-  [Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](https://cn.bing.com/th?id=OHR.BulgariaDevilBridge_EN-US4705163344_UHD.jpg)
+  [Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxBlackForest_EN-US4823848176_UHD.jpg)
 <!-- END -->
 
 
