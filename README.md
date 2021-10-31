@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 30 2021 00:49:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.UnkindnessRavens_EN-US5051823062_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 31 2021 00:53:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-10-30
+  2021-10-31
 
-  [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.UnkindnessRavens_EN-US5051823062_UHD.jpg)
+  [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg)
 <!-- END -->
 
 
