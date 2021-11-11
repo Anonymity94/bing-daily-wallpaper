@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 10 2021 00:52:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.DalyanTombs_EN-US8809333529_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 11 2021 00:53:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](https://cn.bing.com/th?id=OHR.CumberlandSeashore_EN-US8862017440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-10
+  2021-11-11
 
-  [Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.DalyanTombs_EN-US8809333529_UHD.jpg)
+  [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](https://cn.bing.com/th?id=OHR.CumberlandSeashore_EN-US8862017440_UHD.jpg)
 <!-- END -->
 
 
