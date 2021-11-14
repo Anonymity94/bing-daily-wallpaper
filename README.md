@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 13 2021 00:51:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.BeaversBend_EN-US8963318493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 14 2021 00:53:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ElTajo_EN-US9027914209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-13
+  2021-11-14
 
-  [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.BeaversBend_EN-US8963318493_UHD.jpg)
+  [Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ElTajo_EN-US9027914209_UHD.jpg)
 <!-- END -->
 
 
