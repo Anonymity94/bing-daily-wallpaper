@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 18 2021 00:52:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Boardwalk Trail at Corkscrew Swamp Sanctuary in Florida (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.CorkscrewSwamp_EN-US9329132226_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 19 2021 00:52:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](https://cn.bing.com/th?id=OHR.TisaBohemian_EN-US4154092405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-18
+  2021-11-19
 
-  [Boardwalk Trail at Corkscrew Swamp Sanctuary in Florida (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.CorkscrewSwamp_EN-US9329132226_UHD.jpg)
+  [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](https://cn.bing.com/th?id=OHR.TisaBohemian_EN-US4154092405_UHD.jpg)
 <!-- END -->
 
 
