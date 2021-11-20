@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Nov 19 2021 00:52:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](https://cn.bing.com/th?id=OHR.TisaBohemian_EN-US4154092405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Nov 20 2021 00:51:37 GMT+0000 (Coordinated Universal Time) -->
+  ![The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LeftForkNorth_EN-US4970545518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-19
+  2021-11-20
 
-  [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](https://cn.bing.com/th?id=OHR.TisaBohemian_EN-US4154092405_UHD.jpg)
+  [The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LeftForkNorth_EN-US4970545518_UHD.jpg)
 <!-- END -->
 
 
