@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 20 2021 00:51:37 GMT+0000 (Coordinated Universal Time) -->
-  ![The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LeftForkNorth_EN-US4970545518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 21 2021 00:54:29 GMT+0000 (Coordinated Universal Time) -->
+  !['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.NewBreath_EN-US9754279186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-20
+  2021-11-21
 
-  [The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LeftForkNorth_EN-US4970545518_UHD.jpg)
+  ['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.NewBreath_EN-US9754279186_UHD.jpg)
 <!-- END -->
 
 
