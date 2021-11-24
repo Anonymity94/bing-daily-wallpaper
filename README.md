@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Nov 23 2021 00:52:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Nov 24 2021 00:52:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteShell_EN-US5528406530_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-11-23
+  2021-11-24
 
-  [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg)
+  [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteShell_EN-US5528406530_UHD.jpg)
 <!-- END -->
 
 
