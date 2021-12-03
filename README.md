@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Dec 02 2021 00:53:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.CuvervilleIsland_EN-US6408758499_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Dec 03 2021 00:52:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.DenaliDall_EN-US6468096657_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-02
+  2021-12-03
 
-  [Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.CuvervilleIsland_EN-US6408758499_UHD.jpg)
+  [Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.DenaliDall_EN-US6468096657_UHD.jpg)
 <!-- END -->
 
 
