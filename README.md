@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Dec 06 2021 00:55:38 GMT+0000 (Coordinated Universal Time) -->
-  ![The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Dec 07 2021 00:56:10 GMT+0000 (Coordinated Universal Time) -->
+  ![An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-06
+  2021-12-07
 
-  [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg)
+  [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg)
 <!-- END -->
 
 
