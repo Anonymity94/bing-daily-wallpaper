@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 07 2021 00:56:10 GMT+0000 (Coordinated Universal Time) -->
-  ![An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Dec 08 2021 00:55:59 GMT+0000 (Coordinated Universal Time) -->
+  ![US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](https://cn.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-07
+  2021-12-08
 
-  [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg)
+  [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](https://cn.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg)
 <!-- END -->
 
 
