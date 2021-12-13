@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Dec 12 2021 00:57:16 GMT+0000 (Coordinated Universal Time) -->
-  ![The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Dec 13 2021 00:54:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](https://cn.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-12
+  2021-12-13
 
-  [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg)
+  [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](https://cn.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg)
 <!-- END -->
 
 
