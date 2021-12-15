@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 14 2021 00:57:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://cn.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Dec 15 2021 00:54:16 GMT+0000 (Coordinated Universal Time) -->
+  ![American robin perched on a branch in Canada (© marcophotos/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanRobin_EN-US0648462541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-14
+  2021-12-15
 
-  [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://cn.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg)
+  [American robin perched on a branch in Canada (© marcophotos/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanRobin_EN-US0648462541_UHD.jpg)
 <!-- END -->
 
 
