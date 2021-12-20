@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Dec 19 2021 00:59:20 GMT+0000 (Coordinated Universal Time) -->
-  ![The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](https://cn.bing.com/th?id=OHR.MoonBeforeYule_EN-US1324527438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Dec 20 2021 00:56:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](https://cn.bing.com/th?id=OHR.AtigunPassAurora_EN-US1398930278_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-19
+  2021-12-20
 
-  [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](https://cn.bing.com/th?id=OHR.MoonBeforeYule_EN-US1324527438_UHD.jpg)
+  [Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](https://cn.bing.com/th?id=OHR.AtigunPassAurora_EN-US1398930278_UHD.jpg)
 <!-- END -->
 
 
