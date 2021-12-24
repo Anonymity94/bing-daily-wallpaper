@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Dec 23 2021 00:55:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](https://cn.bing.com/th?id=OHR.AnnecyFrance_EN-US1633083371_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Dec 24 2021 00:55:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.ManitobaBears_EN-US1696173596_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-23
+  2021-12-24
 
-  [Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](https://cn.bing.com/th?id=OHR.AnnecyFrance_EN-US1633083371_UHD.jpg)
+  [Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.ManitobaBears_EN-US1696173596_UHD.jpg)
 <!-- END -->
 
 
