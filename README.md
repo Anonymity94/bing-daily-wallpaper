@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Dec 31 2021 00:57:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jan 01 2022 00:58:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](https://cn.bing.com/th?id=OHR.IcelandBonfire_EN-US0626821282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2021-12-31
+  2022-01-01
 
-  [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)
+  [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](https://cn.bing.com/th?id=OHR.IcelandBonfire_EN-US0626821282_UHD.jpg)
 <!-- END -->
 
 
