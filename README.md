@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jan 01 2022 00:58:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](https://cn.bing.com/th?id=OHR.IcelandBonfire_EN-US0626821282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jan 02 2022 00:59:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JonesBeachHarpSeal_EN-US0716413455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-01
+  2022-01-02
 
-  [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](https://cn.bing.com/th?id=OHR.IcelandBonfire_EN-US0626821282_UHD.jpg)
+  [Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JonesBeachHarpSeal_EN-US0716413455_UHD.jpg)
 <!-- END -->
 
 
