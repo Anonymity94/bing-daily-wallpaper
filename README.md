@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 02 2022 00:59:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JonesBeachHarpSeal_EN-US0716413455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 03 2022 00:56:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Skyline of Prague, Czech Republic (© benkrut/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyPrague_EN-US0983025054_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-02
+  2022-01-03
 
-  [Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JonesBeachHarpSeal_EN-US0716413455_UHD.jpg)
+  [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyPrague_EN-US0983025054_UHD.jpg)
 <!-- END -->
 
 
