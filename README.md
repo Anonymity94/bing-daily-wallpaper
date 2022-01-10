@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 09 2022 01:00:19 GMT+0000 (Coordinated Universal Time) -->
-  ![American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinterBison_EN-US1438810655_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 10 2022 00:56:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RiceBangladesh_EN-US1519717699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-09
+  2022-01-10
 
-  [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinterBison_EN-US1438810655_UHD.jpg)
+  [Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RiceBangladesh_EN-US1519717699_UHD.jpg)
 <!-- END -->
 
 
