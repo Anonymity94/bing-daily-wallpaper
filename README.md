@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 11 2022 00:59:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](https://cn.bing.com/th?id=OHR.SkiTouring_EN-US1605895803_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 12 2022 00:58:03 GMT+0000 (Coordinated Universal Time) -->
+  ![A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.PorcupineWillow_EN-US1683070352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-11
+  2022-01-12
 
-  [Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](https://cn.bing.com/th?id=OHR.SkiTouring_EN-US1605895803_UHD.jpg)
+  [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.PorcupineWillow_EN-US1683070352_UHD.jpg)
 <!-- END -->
 
 
