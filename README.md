@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 13 2022 01:00:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://cn.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 14 2022 00:59:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-13
+  2022-01-14
 
-  [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://cn.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg)
+  [Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg)
 <!-- END -->
 
 
