@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 18 2022 00:59:52 GMT+0000 (Coordinated Universal Time) -->
-  ![MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 19 2022 00:52:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-01-18
+  2022-01-19
 
-  [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg)
+  [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg)
 <!-- END -->
 
 
