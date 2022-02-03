@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 02 2022 00:56:38 GMT+0000 (Coordinated Universal Time) -->
-  ![The 369th Infantry returns to New York City, 1919 (© Science History Images/Alamy)](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 03 2022 00:53:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Alpine marmot in Hohe Tauern National Park, Austria (© Misja Smits/Minden Pictures)](https://cn.bing.com/th?id=OHR.GHDMarmot_EN-US2087184765_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-02
+  2022-02-03
 
-  [The 369th Infantry returns to New York City, 1919 (© Science History Images/Alamy)](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg)
+  [Alpine marmot in Hohe Tauern National Park, Austria (© Misja Smits/Minden Pictures)](https://cn.bing.com/th?id=OHR.GHDMarmot_EN-US2087184765_UHD.jpg)
 <!-- END -->
 
 
