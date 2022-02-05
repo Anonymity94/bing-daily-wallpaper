@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 04 2022 00:54:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Corjuem Fort in Goa, India (© Ingvar Kuznetsov/Shutterstock)](https://cn.bing.com/th?id=OHR.FortCorjuem_EN-US2158456164_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 05 2022 00:47:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-04
+  2022-02-05
 
-  [Corjuem Fort in Goa, India (© Ingvar Kuznetsov/Shutterstock)](https://cn.bing.com/th?id=OHR.FortCorjuem_EN-US2158456164_UHD.jpg)
+  [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg)
 <!-- END -->
 
 
