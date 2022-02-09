@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Feb 08 2022 00:57:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](https://cn.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Feb 09 2022 01:00:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Rock art near Santa Fe, New Mexico (© Scott Warren/Cavan)](https://cn.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-08
+  2022-02-09
 
-  [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](https://cn.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg)
+  [Rock art near Santa Fe, New Mexico (© Scott Warren/Cavan)](https://cn.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg)
 <!-- END -->
 
 
