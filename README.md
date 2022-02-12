@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 11 2022 01:01:30 GMT+0000 (Coordinated Universal Time) -->
-  ![The Old City of Bern, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4213051884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 12 2022 01:00:05 GMT+0000 (Coordinated Universal Time) -->
+  !['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-11
+  2022-02-12
 
-  [The Old City of Bern, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4213051884_UHD.jpg)
+  ['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg)
 <!-- END -->
 
 
