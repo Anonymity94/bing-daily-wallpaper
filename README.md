@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Feb 12 2022 01:00:05 GMT+0000 (Coordinated Universal Time) -->
-  !['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Feb 13 2022 01:00:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Darwin's Arch with Darwin Island in background, Galápagos, Ecuador (© miralex/Getty Images)](https://cn.bing.com/th?id=OHR.DarwinsArch_EN-US6875224451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-12
+  2022-02-13
 
-  ['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg)
+  [Darwin's Arch with Darwin Island in background, Galápagos, Ecuador (© miralex/Getty Images)](https://cn.bing.com/th?id=OHR.DarwinsArch_EN-US6875224451_UHD.jpg)
 <!-- END -->
 
 
