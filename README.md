@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 20 2022 01:04:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 21 2022 00:57:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-20
+  2022-02-21
 
-  [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg)
+  [Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg)
 <!-- END -->
 
 
