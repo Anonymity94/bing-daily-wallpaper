@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 27 2022 01:03:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 28 2022 01:02:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-02-27
+  2022-02-28
 
-  [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg)
+  [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg)
 <!-- END -->
 
 
