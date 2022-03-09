@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Mar 08 2022 01:03:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Mar 09 2022 01:07:56 GMT+0000 (Coordinated Universal Time) -->
+  ![The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-03-08
+  2022-03-09
 
-  [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg)
+  [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg)
 <!-- END -->
 
 
