@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 10 2022 01:09:40 GMT+0000 (Coordinated Universal Time) -->
-  ![The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 11 2022 01:09:27 GMT+0000 (Coordinated Universal Time) -->
+  ![The Ponte Vecchio, a bridge near Bobbio, Italy (© afinocchiaro/Getty Images)](https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-03-10
+  2022-03-11
 
-  [The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg)
+  [The Ponte Vecchio, a bridge near Bobbio, Italy (© afinocchiaro/Getty Images)](https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg)
 <!-- END -->
 
 
