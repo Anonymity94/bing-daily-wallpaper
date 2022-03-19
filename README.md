@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Mar 18 2022 01:07:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Mar 19 2022 01:02:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-03-18
+  2022-03-19
 
-  [Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg)
+  [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg)
 <!-- END -->
 
 
