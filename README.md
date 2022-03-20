@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 19 2022 01:02:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 20 2022 01:06:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-03-19
+  2022-03-20
 
-  [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg)
+  [Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg)
 <!-- END -->
 
 
