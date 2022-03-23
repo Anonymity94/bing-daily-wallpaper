@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Mar 22 2022 01:11:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Holy Trinity Church, Stratford-upon-Avon, England (© James Osmond/Getty Images)](https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Mar 23 2022 01:20:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho (© knowlesgallery/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-03-22
+  2022-03-23
 
-  [Holy Trinity Church, Stratford-upon-Avon, England (© James Osmond/Getty Images)](https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg)
+  [Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho (© knowlesgallery/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg)
 <!-- END -->
 
 
