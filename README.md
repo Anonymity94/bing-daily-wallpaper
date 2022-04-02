@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 01 2022 01:24:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 02 2022 01:15:12 GMT+0000 (Coordinated Universal Time) -->
+  !['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-01
+  2022-04-02
 
-  [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg)
+  ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg)
 <!-- END -->
 
 
