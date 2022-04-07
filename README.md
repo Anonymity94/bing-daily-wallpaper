@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 06 2022 01:16:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 07 2022 01:15:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-06
+  2022-04-07
 
-  [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg)
+  [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg)
 <!-- END -->
 
 
