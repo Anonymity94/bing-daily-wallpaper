@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 08 2022 01:14:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 09 2022 01:13:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Coast near Ponta Delgada, Madeira, Portugal (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-08
+  2022-04-09
 
-  [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg)
+  [Coast near Ponta Delgada, Madeira, Portugal (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg)
 <!-- END -->
 
 
