@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 15 2022 01:19:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Horseshoe Bend, Arizona (© Michael Dunn/Getty Images)](https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 16 2022 01:15:20 GMT+0000 (Coordinated Universal Time) -->
+  !['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-15
+  2022-04-16
 
-  [Horseshoe Bend, Arizona (© Michael Dunn/Getty Images)](https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg)
+  ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg)
 <!-- END -->
 
 
