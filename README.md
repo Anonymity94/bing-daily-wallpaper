@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 17 2022 01:22:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 18 2022 01:41:15 GMT+0000 (Coordinated Universal Time) -->
+  ![The blue eggs of an American robin in New Jersey (© Mira/Alamy)](https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-17
+  2022-04-18
 
-  [Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg)
+  [The blue eggs of an American robin in New Jersey (© Mira/Alamy)](https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg)
 <!-- END -->
 
 
