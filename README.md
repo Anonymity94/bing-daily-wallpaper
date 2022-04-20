@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Apr 19 2022 01:37:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Apr 20 2022 01:43:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-19
+  2022-04-20
 
-  [Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg)
+  [Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg)
 <!-- END -->
 
 
