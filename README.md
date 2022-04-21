@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 20 2022 01:43:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 21 2022 01:39:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-20
+  2022-04-21
 
-  [Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg)
+  [Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg)
 <!-- END -->
 
 
