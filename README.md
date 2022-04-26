@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Apr 25 2022 01:21:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way rising above Half Dome in Yosemite National Park, California (© Cory Marshall/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Apr 26 2022 01:39:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-25
+  2022-04-26
 
-  [Milky Way rising above Half Dome in Yosemite National Park, California (© Cory Marshall/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg)
+  [Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg)
 <!-- END -->
 
 
