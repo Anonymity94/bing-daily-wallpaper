@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Apr 26 2022 01:39:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Apr 27 2022 01:42:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Central Park, New York City (© Tony Shi Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-26
+  2022-04-27
 
-  [Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg)
+  [Central Park, New York City (© Tony Shi Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg)
 <!-- END -->
 
 
