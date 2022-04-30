@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 29 2022 01:40:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 30 2022 01:43:40 GMT+0000 (Coordinated Universal Time) -->
+  ![A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-04-29
+  2022-04-30
 
-  [Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg)
+  [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)
 <!-- END -->
 
 
