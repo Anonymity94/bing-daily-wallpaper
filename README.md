@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 03 2022 01:43:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed May 04 2022 01:42:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-03
+  2022-05-04
 
-  [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg)
+  [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg)
 <!-- END -->
 
 
