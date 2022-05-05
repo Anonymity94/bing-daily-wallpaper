@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 04 2022 01:42:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 05 2022 01:37:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-04
+  2022-05-05
 
-  [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg)
+  [Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg)
 <!-- END -->
 
 
