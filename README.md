@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 06 2022 01:19:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 07 2022 01:18:35 GMT+0000 (Coordinated Universal Time) -->
+  ![A path winding through a forest carpeted with bluebells in Hertfordshire, England (© JayKay57/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-06
+  2022-05-07
 
-  [Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg)
+  [A path winding through a forest carpeted with bluebells in Hertfordshire, England (© JayKay57/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg)
 <!-- END -->
 
 
