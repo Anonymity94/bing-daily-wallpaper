@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 11 2022 01:45:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 12 2022 01:41:07 GMT+0000 (Coordinated Universal Time) -->
+  ![The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-11
+  2022-05-12
 
-  [Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg)
+  [The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg)
 <!-- END -->
 
 
