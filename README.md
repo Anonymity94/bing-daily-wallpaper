@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 18 2022 01:19:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SaltPondsMaras_EN-US5922073798_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 19 2022 01:45:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.KansasPrairiefire_EN-US6008489579_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-18
+  2022-05-19
 
-  [Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SaltPondsMaras_EN-US5922073798_UHD.jpg)
+  [Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.KansasPrairiefire_EN-US6008489579_UHD.jpg)
 <!-- END -->
 
 
