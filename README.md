@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 20 2022 01:36:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](https://cn.bing.com/th?id=OHR.GlassBridge_EN-US6168516510_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 21 2022 01:12:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-05-20
+  2022-05-21
 
-  [Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](https://cn.bing.com/th?id=OHR.GlassBridge_EN-US6168516510_UHD.jpg)
+  [Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg)
 <!-- END -->
 
 
