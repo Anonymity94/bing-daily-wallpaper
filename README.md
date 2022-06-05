@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jun 04 2022 01:20:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](https://cn.bing.com/th?id=OHR.MoabCycling_EN-US6614069772_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 05 2022 01:41:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-06-04
+  2022-06-05
 
-  [Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](https://cn.bing.com/th?id=OHR.MoabCycling_EN-US6614069772_UHD.jpg)
+  [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg)
 <!-- END -->
 
 
