@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 21 2022 01:42:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](https://cn.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jun 22 2022 01:50:12 GMT+0000 (Coordinated Universal Time) -->
+  ![View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-06-21
+  2022-06-22
 
-  [Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](https://cn.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg)
+  [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg)
 <!-- END -->
 
 
