@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 06 2022 01:56:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 07 2022 01:50:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-07-06
+  2022-07-07
 
-  [Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_UHD.jpg)
+  [Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg)
 <!-- END -->
 
 
