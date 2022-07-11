@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 10 2022 01:56:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 11 2022 01:45:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-07-10
+  2022-07-11
 
-  [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg)
+  [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg)
 <!-- END -->
 
 
