@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 24 2022 01:55:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 25 2022 01:48:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2022-07-24
+  2022-07-25
 
-  [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg)
+  [Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg)
 <!-- END -->
 
 
